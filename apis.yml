@@ -47,7 +47,7 @@ x-founded: '2021'
 x-headquarters: Bucharest, Romania
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Communications
@@ -55,6 +55,7 @@ tags:
 - Video Conferencing
 - Webinars
 - Meetings
+- Defunct
 tags_raw:
 - Company
 - Communication
@@ -62,6 +63,7 @@ tags_raw:
 - Video Conferencing
 - Webinars
 - Meetings
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
